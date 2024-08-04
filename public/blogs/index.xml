@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Blogs on Timur&#39;s Profile</title>
-    <link>http://localhost:1313/blogs/</link>
+    <link>https://timurblog.netlify.app/blogs/</link>
     <description>Recent content in Blogs on Timur&#39;s Profile</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Sat, 03 Aug 2024 23:29:21 +0530</lastBuildDate>
-    <atom:link href="http://localhost:1313/blogs/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://timurblog.netlify.app/blogs/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>My blog</title>
-      <link>http://localhost:1313/blogs/myblog/</link>
+      <link>https://timurblog.netlify.app/blogs/myblog/</link>
       <pubDate>Sat, 03 Aug 2024 23:29:21 +0530</pubDate>
-      <guid>http://localhost:1313/blogs/myblog/</guid>
+      <guid>https://timurblog.netlify.app/blogs/myblog/</guid>
       <description>HI Hello, it is my first post in this blog. I hope you will enjoy to read this thoughts. </description>
     </item>
   </channel>

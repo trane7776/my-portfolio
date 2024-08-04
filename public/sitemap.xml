@@ -2,20 +2,20 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/blogs/</loc>
+    <loc>https://timurblog.netlify.app/blogs/</loc>
     <lastmod>2024-08-03T23:29:21+05:30</lastmod>
   </url><url>
-    <loc>http://localhost:1313/blogs/myblog/</loc>
+    <loc>https://timurblog.netlify.app/blogs/myblog/</loc>
     <lastmod>2024-08-03T23:29:21+05:30</lastmod>
   </url><url>
-    <loc>http://localhost:1313/</loc>
+    <loc>https://timurblog.netlify.app/</loc>
     <lastmod>2024-08-03T23:29:21+05:30</lastmod>
   </url><url>
-    <loc>http://localhost:1313/gallery/</loc>
+    <loc>https://timurblog.netlify.app/gallery/</loc>
     <lastmod>2022-06-25T18:35:46+05:30</lastmod>
   </url><url>
-    <loc>http://localhost:1313/categories/</loc>
+    <loc>https://timurblog.netlify.app/categories/</loc>
   </url><url>
-    <loc>http://localhost:1313/tags/</loc>
+    <loc>https://timurblog.netlify.app/tags/</loc>
   </url>
 </urlset>
